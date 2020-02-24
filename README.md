@@ -7,4 +7,5 @@ List of content
 2. 
 
 # Blog
-* [Data Engineers: The best friends of Data Scientists you forgot to hire.](https://uwekorn.com/2019/02/13/data-engineers-the-best-friends-of-data-scientists-you-forgot.html)
+    - Carrer path
+        * [Data Engineers: The best friends of Data Scientists you forgot to hire.](https://uwekorn.com/2019/02/13/data-engineers-the-best-friends-of-data-scientists-you-forgot.html)
