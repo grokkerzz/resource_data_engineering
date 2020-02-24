@@ -22,5 +22,5 @@ List of content
 
 # Conference
 * [Data Council](https://www.datacouncil.ai/)
-* [SPARK+AI SUMMIT](https://databricks.com/sparkaisummit)
+* [Spark+AI Summit](https://databricks.com/sparkaisummit)
 * [Strata Data & AI Conference](https://conferences.oreilly.com/strata-data-ai)
